@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sản phẩm &#8211; wordpress_demo</title>
+	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ptbk13072003.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 03:29:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>BRAKES</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/brakes/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/brakes/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:29:50 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=104</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/brakes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FILTER</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/filter/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/filter/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:29:36 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=116</guid>
+
+					<description><![CDATA[Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS - SOUND
+
+TAGS: FAST - RIDE - MOTO]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/filter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MOTO JACKET</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/moto-jacket/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/moto-jacket/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:29:26 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=120</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS – SOUND
+
+TAGS: FAST – RIDE – MOTO
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/moto-jacket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>M HELMET</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/m-helmet/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/m-helmet/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:29:19 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=124</guid>
+
+					<description><![CDATA[Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS – SOUND
+
+TAGS: FAST – RIDE – MOTO]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/m-helmet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BOOTS</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/boots/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/boots/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:28:59 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=128</guid>
+
+					<description><![CDATA[Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS – SOUND
+
+TAGS: FAST – RIDE – MOTO]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/boots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HELMETS</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/helmets/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/helmets/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:28:51 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=132</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS – SOUND
+
+TAGS: FAST – RIDE – MOTO
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/helmets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>M BOOTS</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/m-boots/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/m-boots/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:28:27 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=137</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS – SOUND
+
+TAGS: FAST – RIDE – MOTO
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/m-boots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GLOVES</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/gloves/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/gloves/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:28:07 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=97</guid>
+
+					<description><![CDATA[Curabitur ở fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean chưa được gọi là enim. Donec tại dapibus enim. Integer et tur là vel turpis vehi.
+
+CATEGORIES: FAST -HELMETS
+
+TAGS: FAST- MOTO -RIDE]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Curabitur ở fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean chưa được gọi là enim. Donec tại dapibus enim. Integer et tur là vel turpis vehi.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/gloves/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>M GLOVES</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/m-gloves-2/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/m-gloves-2/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:28:00 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=142</guid>
+
+					<description><![CDATA[Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+CATEGORIES: HELMETS – SOUND
+
+TAGS: FAST – RIDE – MOTO]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/m-gloves-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HELMET</title>
+		<link>https://ptbk13072003.github.io/mywordpress/san-pham/helmet/</link>
+					<comments>https://ptbk13072003.github.io/mywordpress/san-pham/helmet/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 03:27:35 +0000</pubDate>
+				<guid isPermaLink="false">https://ptbk13072003.github.io/mywordpress/?post_type=product&#038;p=112</guid>
+
+					<description><![CDATA[Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+
+CATEGORIES: HELMETS - QUALITY
+<div class="woocommerce-product-details__short-description">
+<div class="product_meta"><span class="tagged_as">TAGS: FAST – MOTO – RIDE</span></div>
+<div class="woocommerce-tabs wc-tabs-wrapper"></div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/helmet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
