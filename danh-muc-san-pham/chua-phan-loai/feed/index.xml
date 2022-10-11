@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ptbk13072003.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 04 Oct 2022 03:29:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 03:09:56 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,10 +33,10 @@
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
-Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in fau cibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Tôi trò chuyện với một loại men tinh khiết. </span><span style="vertical-align: inherit;">Đôi khi anh mong muốn mình sẽ đói, và trước khi anh có thức ăn đầu tiên trong vòi. </span><span style="vertical-align: inherit;">Mauris nisl đôi khi, không có vấn đề gì, nhưng hãy bỏ qua. </span><span style="vertical-align: inherit;">Chúng tôi đang sống và thông minh. </span><span style="vertical-align: inherit;">Aeneas chứ không phải xe tải. </span><span style="vertical-align: inherit;">Thật không may, đối với protein. </span><span style="vertical-align: inherit;">Còn nguyên vẹn và nó thậm chí còn là một chuyến đi tồi tệ.</span></span>
 
 </div>]]></description>
-										<content:encoded><![CDATA[<p>Curabitur at fermentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris non nisl interdum, citudin ne que sed, posuere elit. Vivamus ac tincidunt sapien. Aenean nec aliquet enim. Donec at dapibus enim. Integer et tur is vel turpis vehi.</p>
+										<content:encoded><![CDATA[<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Tôi trò chuyện với một loại men tinh khiết. </span><span style="vertical-align: inherit;">Đôi khi cơn đói được mong đợi và trước khi nó là điều đầu tiên trong cổ họng. </span><span style="vertical-align: inherit;">Mauris nisl đôi khi, không có vấn đề gì, nhưng hãy bỏ qua. </span><span style="vertical-align: inherit;">Chúng tôi đang sống và thông minh. </span><span style="vertical-align: inherit;">Aeneas chứ không phải xe tải. </span><span style="vertical-align: inherit;">Thật không may, đối với protein. </span><span style="vertical-align: inherit;">Còn nguyên vẹn và nó thậm chí còn là một chuyến đi tồi tệ.</span></span></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ptbk13072003.github.io/mywordpress/san-pham/brakes/feed/</wfw:commentRss>
