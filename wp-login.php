@@ -3,13 +3,13 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Đăng nhập &lsaquo; wordpress_demo &#8212; WordPress</title>
-	<meta name="robots" content="noindex, nofollow, noarchive">
+	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<!--n2css--><link rel="stylesheet" id="dashicons-css" href="https://ptbk13072003.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://ptbk13072003.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://ptbk13072003.github.io/mywordpress/wp-admin/css/forms.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://ptbk13072003.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://ptbk13072003.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.0.2" media="all">
+<!--n2css--><link rel="stylesheet" id="dashicons-css" href="https://ptbk13072003.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://ptbk13072003.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="forms-css" href="https://ptbk13072003.github.io/mywordpress/wp-admin/css/forms.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://ptbk13072003.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="login-css" href="https://ptbk13072003.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.0.3" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -85,17 +85,17 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );</script>
-<script src="https://ptbk13072003.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=6.0.2" id="password-strength-meter-js"></script>
+<script src="https://ptbk13072003.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=6.0.3" id="password-strength-meter-js"></script>
 <script src="https://ptbk13072003.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
-<script src="https://ptbk13072003.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"6428f879dd"};</script>
+<script src="https://ptbk13072003.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"15872f71c7"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );</script>
-<script src="https://ptbk13072003.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
+<script src="https://ptbk13072003.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
 		<div class="clear"></div>
 	</body>
