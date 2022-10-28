@@ -10,9 +10,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho wordpress_demo	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ptbk13072003.github.io/mywordpress</link>
+	Các phản hồi luận về: Top 20 Phu Tung Xe May và Nhung Cong Dung	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2022/10/28/top-20-phu-tung-xe-may-va-nhung-cong-dung/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ptbk13072003.github.io/mywordpress/2022/10/28/top-20-phu-tung-xe-may-va-nhung-cong-dung/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Fri, 28 Oct 2022 16:52:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
