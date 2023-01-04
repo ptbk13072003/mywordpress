@@ -5414,7 +5414,7 @@ h2.wl_filter_title {
 }
 
 .woolentor-horizontal-filter-wrap .select2-container.select2-container--default .selection .select2-selection {
-  background: transparent url(https://ptbk13072003.github.io/mywordpress/wp-content/plugins/woolentor-addons/assets/images/selector-icon.png) no-repeat center right 10px;
+  background: transparent url(https://phutuan.github.io/mywordpress/wp-content/plugins/woolentor-addons/assets/images/selector-icon.png) no-repeat center right 10px;
 }
 
 .woolentor-horizontal-filter-wrap .select2-container.select2-container--default .selection .select2-selection--multiple {
@@ -5590,7 +5590,7 @@ div[class*="woolentor-single-select-drop"] .select2-results__option::before{
   content: "";
   color: #fff;
   border-color: transparent;
-  background-image: url(https://ptbk13072003.github.io/mywordpress/wp-content/plugins/woolentor-addons/assets/images/check.png);
+  background-image: url(https://phutuan.github.io/mywordpress/wp-content/plugins/woolentor-addons/assets/images/check.png);
   background-repeat: no-repeat;
   background-position: center center;
   border: 0;
